@@ -1,0 +1,2 @@
+# Nifty-Bank-Stock-Analysis-using-VWAP
+&lt;h1> Hello And Welcome to Nifty Bank Stock Analysis  &lt;/h1> &lt;br> &lt;b>Nifty Bank, or Bank Nifty&lt;/b>, is an index comprised of the most liquid and large capitalised &lt;b>Indian banking stocks&lt;/b>. &lt;br>It provides investors with a benchmark that captures the capital market performance of Indian bank stocks. The top stocks of the index include HDFC Bank Ltd. 31.61%, ICICI Bank Ltd. 18.20%, Axis Bank Ltd.
